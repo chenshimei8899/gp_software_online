@@ -1,0 +1,1 @@
+var e=()=>({legacy:!1,locale:`en`,fallbackLocale:`en`,globalInjection:!0});export{e as default};
