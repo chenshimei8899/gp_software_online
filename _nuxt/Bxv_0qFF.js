@@ -1,0 +1,1 @@
+import{d as e,l as t}from"./CDtDByse.js";import{r as n,t as r}from"./CRKr2N3a.js";var i=t(()=>{let t=r();if(t.isLoggedIn&&t.isSubAccount)return n(`当前账号权限不足无法操作`),e(`/profile`)});export{i as default};
